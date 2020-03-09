@@ -7,17 +7,17 @@ How To Roll
 
 In Cerberus. The rules and variables involved in the number of dice you roll will always be the same. 
 
-__Base + Attribute or Class + Skill or Proficiency + ( Modifiers ) + ( Assist or Check )__
+__Attribute or Class + Skill or Proficiency + ( Modifiers ) + ( Assist or Check )__
 
 Modifiers assists and checks are all optional, I recommend ignoring them for the players fist handful of rolls.
 
 | Variable | Rule |
 |---:|:---|
 **Base** | Base is always **3** dice, unless house rules say otherwise.
-**Attribute** | An **Attribute** can range from **-1 to 4** dice and is chosen based on the skill being rolled.
+**Attribute** | An **Attribute** can range from **0 to 5** dice and is chosen based on the skill being rolled.
 **Class** | A player may choose to use a **class** instead of a attribute, so long as the skill is applicable to the class.
 **Skill** | A Skill can range from -1-4 dice and is chosen base on the task at hand. For example if the player is ridding a horse they roll **ride / pilot**
-**Proficiency** | A Proficiency can be rolled instead of a Skill. Proficiencies range from **0 to 4** dice. 
+**Proficiency** | A Proficiency can be rolled instead of a Skill. Proficiencies range from **0 to 5** dice. 
 **Modifiers** | Modifiers increase or decrease the rolls dice based on the environment, equipment and situation. For example if the character is shooting a bow at range they get an additional **2** dice. If they are in close combat their roll losses two dice. custom modifiers can be created on the spot by the GM. modifiers can add or remove dice or wins from a roll.     
 **Assist** | A if the GM dose not require a check for the roll the player can request to assist their roll with another skill. another character may also assist the roll. only one assist per player is allowed. depending on the outcome of the assist it will either add or remove wins from the role. _[Rolling Assists][ra]_
 **Check** | The GM can require a check. For example if a character is fighting on horseback the gm can require a ride/pilot check in their roll. depending on the outcome of the check it will either add or remove wins from the role. _[Rolling Checks][rc]_ 
@@ -34,7 +34,7 @@ Unless otherwise declared by the GM the challenge level for a assist is **3**.
 
 If the wins exceed the **CL** then additional wins are added to the roll. Otherwise you subtrack from the roll the number of wins the assist failed by.
 
-The number of dice you roll for the assist is **Base + Attribute + Skill or Proficiency**. you do not add modifiers to assists.
+The number of dice you roll for the assist is **Attribute + Skill or Proficiency**. you do not add modifiers to assists.
 
 > Let say Jesse's **survival** is **2** and he is looking for some food to eat. 
 he could assist a **perception** roll with his **survival** skill.
