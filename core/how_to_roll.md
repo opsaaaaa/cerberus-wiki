@@ -1,7 +1,12 @@
 How To Roll
 ===
  
+- [The Roll Equation][ra]
+- [Rolling Assists][ra]
+- [Rolling Checks][rc]
 
+[re]: #roll-equation
+<a name="rolling-equation"></a>
 
 ## The Roll Equation
 
@@ -36,7 +41,7 @@ If the wins exceed the **CL** then additional wins are added to the roll. Otherw
 
 The number of dice you roll for the assist is **Base + Attribute + Skill or Proficiency**. you do not add modifiers to assists.
 
-> Let say Jesse's **survival** is **2** and he is looking for some food to eat. 
+> Jesse's **survival** is **2** and he is looking for some food to eat. 
 he could assist a **perception** roll with his **survival** skill.
 for his assist, he would roll a **base** of **3** plus **survival** of **2** for a total of **5** die.
 say the assist gets **4** wins, the player adds **1** win to the roll.
