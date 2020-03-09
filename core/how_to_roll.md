@@ -1,7 +1,7 @@
 How To Roll
 ===
  
-- [The Roll Equation][ra]
+- [The Roll Equation][re]
 - [Rolling Assists][ra]
 - [Rolling Checks][rc]
 
