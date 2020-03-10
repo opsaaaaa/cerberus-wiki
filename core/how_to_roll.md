@@ -57,16 +57,16 @@ rolling a check is similar to [rolling an assist][ra]. The difference is that pl
 > Jesse is trying to sneak past the guards on horseback. So the GM requires jesse's player to add a **ride / pilot** check to his **stealth** roll.
 
 ## Examples:
-Fred McFyord is going to attempt to climb the castle wall. 
-he has **1** dice in **Grapple** and **2** dice in **Strength**.
-
-The gm decides no modifiers apply and  the player decides not to assist with anything and the gm decides no check is necessary. 
-The GM sets the challenge level to **3** ( a specialized task ).
-
-base is always **3** plus his **2** dice for strength plus **1** dice for Grapple. 
-
-The player rolls **6** dice. **2** dice land between **4-5** so the roll has **2** wins.
-**2 wins** is less than the challenge level of **3**, so the attempt fails.
+> Fred McFyord is going to attempt to climb the castle wall. 
+> he has **1** dice in **Grapple** and **2** dice in **Strength**.
+> 
+> The gm decides no modifiers apply and  the player decides not to assist with anything and the gm decides no check is necessary. 
+> The GM sets the challenge level to **3** ( a specialized task ).
+>
+> base is always **3** plus his **2** dice for strength plus **1** dice for Grapple. 
+>
+> The player rolls **6** dice. **2** dice land between **4-5** so the roll has **2** wins.
+> **2 wins** is less than the challenge level of **3**, so the attempt fails.
 
 ---
 
