@@ -1,7 +1,7 @@
 Cerberus Wiki
 =============
 
-Cerberus is a home-brew alteration of the table to role-play rule set, cogent.
+Cerberus is a home-brew alteration of the table top role-play rule set, cogent.
 
 The main goal of these alterations is to reduce the complexity in making a roll. The plan is to:
 
