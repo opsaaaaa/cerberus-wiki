@@ -1,0 +1,7 @@
+Cogent
+^^^^^^
+
+.. toctree::
+    :glob:
+
+    *
