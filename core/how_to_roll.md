@@ -8,7 +8,7 @@ How To Roll
 [re]: #roll-equation
 <a name="rolling-equation"></a>
 
-## The Roll Equation
+## How Many Dice do I roll?
 
 In Cerberus. The rules and variables involved in the number of dice you roll will always be the same. 
 
@@ -30,7 +30,7 @@ Modifiers assists and checks are all optional, I recommend ignoring them for the
 [ra]: #rolling-assists
 <a name="rolling-assists"></a>
 
-## Rolling Assists
+## Assists
 
 Given the GM's approval A character can assist a roll with a second skill or proficiency. Another player my also assist the roll with one of their own skill.
 
@@ -50,7 +50,7 @@ say it gets **1** win, the player remove **2** wins from the roll.
 [rc]: #rolling-checks
 <a name="rolling-checks"></a>
 
-## Rolling Checks
+## Checks
 
 rolling a check is similar to [rolling an assist][ra]. The difference is that player can not request a check, its solely up to the GM if a check is required.
 
