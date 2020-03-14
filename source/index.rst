@@ -22,3 +22,4 @@ Map
     cerberus/cerberus
     expansions/expansions
     cogent/cogent
+    dictionary
