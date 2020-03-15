@@ -3,7 +3,7 @@ How To Roll
 
 In Cerberus. The rules and variables involved in the number of dice you roll will always be the same. 
 
-**Base + Attribute or Class + Skill or Proficiency + ( Modifiers ) + ( Assist or Check )**
+  **Base + Attribute or Class + Skill or Proficiency + ( Modifiers ) + ( Assist or Check )**
 
 Modifiers assists and checks are all optional, I recommend ignoring them for the players fist handful of rolls.
 
@@ -23,14 +23,16 @@ Modifiers assists and checks are all optional, I recommend ignoring them for the
    * - ( **Modifiers** )
      - Modifiers can add or remove dice or wins from a roll.     
    * - ( **Assist** ) 
-     - An Assist add dice but also increeses the CL.
+     - An Assist add dice but also increases the CL.
    * - ( **Check** )
      - A check is a required assist. 
 
 Attribute and Class
 ^^^^^^^^^^^^^^^^^^^
 
-A character will have 3 attributes. Each attribute has 4 skills.
+A character will have 3 attributes. Each attribute has 4 skills. 
+An attribles value can range from **-1 to 4**. 
+And a class can range from **0 to 4**.
 
 .. list-table:: 
    :widths: 10 10 10
@@ -38,7 +40,7 @@ A character will have 3 attributes. Each attribute has 4 skills.
 
    * - **Strength**
      - **Reflex**
-     - **Inteligence**
+     - **Intelligence**
    * - Athletics
      - Acrobatics
      - Deception
@@ -54,46 +56,44 @@ A character will have 3 attributes. Each attribute has 4 skills.
 
 If a player is making a **Sleight of hand** roll, they must use the **Reflex** attribute. Unless the character has a applicable class.
 
-  Joshua has a **class of Rogue**, he is atempting to steal the gaurds keys.
+  Joshua has a **class of Rogue**, he is attempting to steal the guards keys.
   his player rolls **Rogue + Sleight of hand**.
   thats **3 base + 2 Rouge + 1 slieght of hand** for a total of **6 die**.
 
-  Joshua's player could have also rolled **Reflex + Slieght of hand** but he olny had 1 die in reflex.
+  Joshua's player could have also rolled **Reflex + Slieght of hand** but he only had 1 die in reflex.
    
 The classes avaliable are determined my the GM, players, and the setting you are playing in.
 
-  Examples; elf, giant, wizard, water bender, dullahon, munk, sniper, black smith, chef. 
+  Examples; elf, giant, wizard, water bender, dullahon, monk, sniper, black smith, chef. 
 
 Note that a player can have more than one class.
 
+Skills and Proficiencies
+^^^^^^^^^^^^^^^^^^^^^^^^
 
-Assists
-^^^^^^^
-For example if a character is fighting on horseback the gm can require a ride/pilot check in their roll. depending on the outcome of the check it will either add or remove wins from the role. _[Rolling Checks][rc]_
+TODO: fill this out
 
-For example if the player is ridding a horse they roll **ride / pilot**
+Assists and Checks
+^^^^^^^^^^^^^^^^^^
+Given the GM's approval A character can assist to their roll with another **skill, proficiency, attribute, or class**. 
+A assist just adds the dice from the assistable to your role.
+Unless the GM specifies otherwise the assist **adds 1 to** the **challenge level** or the **opponents Avasion or defence**.
 
-Given the GM's approval A character can assist a roll with a second skill or proficiency. Another player my also assist the roll with one of their own skill.
+  Jean has **3 Grapple**, **0 Strength**, and **2** dice in her **knife combat** proficiency. 
+  She is attempting to grab her opponents shirt, pull them in and stab them.
+  Jean's player rolls **3 base + 1 Str + 2 knife combat + 3 Grapple**, totaling **9 dice**.
+  Her opponents avasion roll is increased from **3** wins to **4**.
 
-A assist is rolled seprately either before or after the player completes the rest of the roll.
-Unless otherwise declared by the GM the challenge level for a assist is **3**.
+Another character my also assist the roll. only one assist per character is allowed and only if the character is not seriously occupied.
 
-If the wins exceed the **CL** then additional wins are added to the roll. Otherwise you subtrack from the roll the number of wins the assist failed by.
 
-The number of dice you roll for the assist is **Base + Attribute + Skill or Proficiency**. you do not add modifiers to assists.
+A check is basically the same as an assists. the difference is that a check can be required by the GM. and it **adds 2 to the challenge level** instead of 1. 
 
-  Jesse's **survival** is **2** and he is looking for some food to eat. 
-  he could assist a **perception** roll with his **survival** skill.
-  for his assist, he would roll a **base** of **3** plus **survival** of **2** for a total of **5** die.
-  say the assist gets **4** wins, the player adds **1** win to the roll.
-  say it gets **1** win, the player remove **2** wins from the roll.
+  Jean is is attempting to jump off her motorbike onto the back of the truck.
+  The GM decides a **Ride/Pilot** check is required.
+  Her player rolls **3 base + 1 Str + 2 Athletics + -1 Ride/Pilot** totaling **5 dice**
+  The challenge level for this roll is increased from **2** to **4**.
 
-Checks
-^^^^^^
-
-rolling a check is similar to [rolling an assist][ra]. The difference is that player can not request a check, its solely up to the GM if a check is required.
-
-  Jesse is trying to sneak past the guards on horseback. So the GM requires jesse's player to add a **ride / pilot** check to his **stealth** roll.
 
 
 Examples:

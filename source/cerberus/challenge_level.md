@@ -1,4 +1,4 @@
-# The Challenge Level
+# Challenge Level
 
 The rules for challenge level in cerberus are the same as in cogent.
 
